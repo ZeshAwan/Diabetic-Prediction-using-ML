@@ -1,2 +1,2 @@
-# Diabetic-Prediction-using-ML
-A predictive model for diabetes diagnosis using machine learning techniques. By leveraging a dataset of patient health metric. The project employs data preprocessing, feature selection, and supervised learning algorithms. This project demonstrates the potential of AI in supporting early diagnosis and healthcare decision-making.
+# Diabetic Prediction Using ML
+A predictive model for diabetes diagnosis using machine learning techniques. By leveraging a dataset of patient health metric. The project employs data preprocessing, feature selection, and supervised learning algorithms. This project demonstrates the potential of AI in supporting early diagnosis and healthcare decision-making. If data of new patient is given to it with the same formate it will classify either the new patient has Diabetic or not.
